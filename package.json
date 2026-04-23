@@ -1,0 +1,11 @@
+{
+  "name": "com.wander.weakevents",
+  "version": "1.0.0",
+  "displayName": "Weak Events for Unity",
+  "description": "Thread-safe weak event system for Unity that eliminates the lapsed listener memory leak.",
+  "unity": "2021.3",
+  "author": {
+    "name": "Stefan Velnita",
+    "url": "https://github.com/stefanvelnita"
+  }
+}
